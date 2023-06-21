@@ -50,16 +50,13 @@ void apply_surface_diff(void)
 
 void display_surface(bool surface[HEIGHT][WIDTH]) {
   system("clear");
-  printf("\034[1;31m");
   for (size_t y = 0; y < HEIGHT; ++y) {
         for (size_t x = 0; x < WIDTH; ++x) {
             char c = state[(int)(surface[y][x])];
-            printf("\033[1;31m");
             fputc(c, stdout);
         }
     fputc('\n', stdout);
   }
-  printf("\034[0m");
 }
 
 int main(void) {
