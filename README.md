@@ -1,5 +1,5 @@
 # Terminal Conway Game of Life in C
-Somehow ~~broken~~working. It is works~~, but heat death happens very soon~~.
+Somehow ~~broken~~working. It is works ~~, but heat death happens very soon~~.
 
 ## Build
 ### Build
