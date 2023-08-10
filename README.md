@@ -17,5 +17,5 @@ make clean
 ```
 
 ## GIF
-https://raw.githubusercontent.com/arturamiryan/conway-game-of-life-in-c/master/game_of_life.mp4
+![](./game_of_life.mp4)
 
