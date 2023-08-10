@@ -15,3 +15,7 @@ make run
 ```sh
 make clean
 ```
+
+## GIF
+![](https://github.com/arturamiryan/conway-game-of-life-in-c/game_of_life.mp4)
+
