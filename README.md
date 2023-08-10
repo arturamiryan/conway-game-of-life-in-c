@@ -17,5 +17,5 @@ make clean
 ```
 
 ## GIF
-![](./game_of_life.mp4)
+![](./game_of_life.gif)
 
